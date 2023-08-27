@@ -1,4 +1,3 @@
-import time
 from datetime import datetime
 
 print('\n'*150)
